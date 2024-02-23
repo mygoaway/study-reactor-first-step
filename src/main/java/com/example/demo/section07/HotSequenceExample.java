@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.section07;
 
 import ch.qos.logback.classic.Logger;
 import reactor.core.publisher.Flux;
