@@ -7,6 +7,7 @@ import static java.util.Locale.ROOT;
 
 public class HelloReactor {
     public static void main(String[] args) {
+        // Mono와 Flux는 Publisher 역할 수행
         // 1. Mono 기본 개념 예제
         // Mono는 1개의 데이터를 생성해서 emit 한다.
         Mono.just("Hello Reactor")
